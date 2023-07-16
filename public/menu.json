@@ -1,0 +1,93 @@
+{
+    "mainmenu": [
+        {
+            "id": "001",
+            "nameItem": "Квартиры",
+            "imgLink": "/assets/img/icons/building.svg",
+            "link": "#",
+            "sublinks": [
+                {
+                    "id": "201",
+                    "nameItem": "Пластиковые окна",
+                    "link": "#"
+                },
+                {
+                    "id": "203",
+                    "nameItem": "Балконы",
+                    "link": "#"
+                },
+                {
+                    "id": "204",
+                    "nameItem": "Декорирование и аксессуары",
+                    "link": "#"
+                },
+                {
+                    "id": "205",
+                    "nameItem": "Двери",
+                    "link": "#"
+                },
+                {
+                    "id": "206",
+                    "nameItem": "Рольшторы",
+                    "link": "#"
+                }
+            ]
+        },
+        {
+            "id": "002",
+            "nameItem": "Котеджи",
+            "imgLink": "/assets/img/icons/house.svg",
+            "link": "#",
+            "sublinks": [
+                {
+                    "id": "206",
+                    "nameItem": "Кирпичные окна",
+                    "link": "#"
+                },
+                {
+                    "id": "207",
+                    "nameItem": "Сандали",
+                    "link": "#"
+                },
+                {
+                    "id": "208",
+                    "nameItem": "Заморские аксессуары",
+                    "link": "#"
+                },
+                {
+                    "id": "209",
+                    "nameItem": "Пармезан",
+                    "link": "#"
+                }
+            ]
+        },
+        {
+            "id": "003",
+            "nameItem": "Офисы",
+            "imgLink": "/assets/img/icons/briefcase.svg",
+            "link": "#",
+            "sublinks": [
+                {
+                    "id": "210",
+                    "nameItem": "Гарри поттер",
+                    "link": "#"
+                },
+                {
+                    "id": "211",
+                    "nameItem": "Леха",
+                    "link": "#"
+                },
+                {
+                    "id": "212",
+                    "nameItem": "Черноголовка",
+                    "link": "#"
+                },
+                {
+                    "id": "213",
+                    "nameItem": "Бойцовский клуб",
+                    "link": "#"
+                }
+            ]
+        }
+    ]
+}
